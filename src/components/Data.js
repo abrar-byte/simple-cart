@@ -1,0 +1,38 @@
+export const Data = [
+  {
+    id: 1,
+    image: "red-shirt.png",
+    name: "Red Shirt",
+    type:"shirt",
+    color:"red",
+    size:"M",
+    price: 50000,
+  },
+  {
+    id: 2,
+    image: "black-shirt.png",
+    name: "Black Shirt",
+    type:"shirt",
+    color:"black",
+    size:"L",
+    price: 40000,
+  },
+  {
+    id: 3,
+    image: "red-jacket.png",
+    name: "Red Jacket",
+    type:"jacket",
+    color:"red",
+    size:"M",
+    price: 150000,
+  },
+  {
+    id: 4,
+    image: "blue-jacket.png",
+    name: "Blue Jacket",
+    type:"jacket",
+    color:"red",
+    size:"M",
+    price: 180000,
+  },
+];
